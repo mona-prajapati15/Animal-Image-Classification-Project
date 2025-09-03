@@ -1,4 +1,5 @@
 🐶 Animal Image Classification Project
+
 A comprehensive deep learning project to classify animal images using a Convolutional Neural Network (CNN).
 
 📋 Overview
